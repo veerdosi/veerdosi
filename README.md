@@ -6,15 +6,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=veerdosi&show_icons=true&theme=radical" alt="Veer's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veerdosi&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ### 🧠 About Me
 
 - 🎓 Dual-degree student in Computer Science and Business at Nanyang Technological University (NTU), Class of 2027.
