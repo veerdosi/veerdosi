@@ -52,13 +52,6 @@
 
 ### 📂 Featured Projects
 
-### 🪞 [Mirage](https://github.com/veerdosi/mirage)  
-**LangChain-powered visual sandbox for AI agent workflows**  
-- Drag-and-drop nodes, flow memory between agents  
-- Built for rapid prototyping of agentic apps with full context
-
----
-
 ### 🧠 [Clinical Engine](https://github.com/veerdosi/clinical-engine)  
 **LLM-based diagnostic simulator with virtual patients and symptom reasoning**  
 - Simulates physical exams, history-taking, and differential diagnosis  
@@ -66,10 +59,17 @@
 
 ---
 
-### ✈️ [Adapti-Pilot](https://github.com/veerdosi/adapti-pilot)  
-**AI-powered platform for threat modeling, vulnerability detection, and secure code gen**  
-- Combines static analysis + LLMs to simulate attacker/defender behavior  
-- Generates security-focused code snippets based on detected issues
+### 🪞 [Mirage](https://github.com/veerdosi/mirage)  
+**LangChain-powered visual sandbox for AI agent workflows**  
+- Drag-and-drop nodes, flow memory between agents  
+- Built for rapid prototyping of agentic apps with full context
+
+---
+
+### ✈️ [Secure-flow](https://github.com/veerdosi/secure-flow)  
+**Real-time AI-powered security analysis platform for GitLab projects**  
+- Continuously monitors your GitLab projects for security vulnerabilities using advanced AI analysis.
+- Get real-time threat detection, interactive 3D threat models, and automated remediation suggestions with approval workflows.
 
 ---
 
