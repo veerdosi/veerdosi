@@ -60,9 +60,6 @@
 ---
 
 ### 🪞 [Mirage](https://github.com/veerdosi/mirage)  
-**LangChain-powered visual sandbox for AI agent workflows**  
-- Drag-and-drop nodes, flow memory between agents  
-- Built for rapid prototyping of agentic apps with full context
 
 ---
 
