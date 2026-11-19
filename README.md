@@ -1,16 +1,6 @@
 # 👋 Hi there, I'm Veer Dosi
 
-## 🚀 Polymath | CS/Biz '27 @ NTU | AI & Finance Enthusiast
-
-![Profile Views](https://komarev.com/ghpvc/?username=veerdosi&style=flat-square)
-
----
-
-### 🧠 About Me
-
-- 🎓 Computer Science with a second major in Business student at Nanyang Technological University (NTU), Class of 2027.
-- 🤖 Passionate about leveraging AI to solve real-world problems, especially in healthcare and finance.
-- 🧑‍💻 Experienced in machine learning, full-stack development, and data analysis.
+## 🚀 Polymath | CS/Biz '27 @ NTU
 
 ---
 ### 📬 Connect with Me
